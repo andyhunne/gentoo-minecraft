@@ -1,2 +1,2 @@
 # gentoo-minecraft
-Files for Mineraft client to be used with tabinol-overlay
+Files for Minecraft client to be used with tabinol-overlay
